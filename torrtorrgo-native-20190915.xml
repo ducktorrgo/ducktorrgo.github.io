@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>TorrTorrGo (Native)</ShortName>
+  <Description>Search TorrTorrGo (Native)</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <LongName>TorrTorrGo (Native) Search</LongName>
+  <Image height="16" width="16">data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAACl0lEQVQ4y3WTz4scRRTHP+9Vd0339Cxjeh38wWajGeNlSZb4C6JEGBJY0ZMSxUNA9KQHvfoPCCGQa/6DeIgH0ZOnvQkeREElwprjHgJmjY7uTvdOV9XzMLMbPFi3R9WrTz0+9ZW7X1w3SAigZgAIRpKckBLjZ1YRichyj+TBRbCEhJwsiENR1IwoHF9gLAoTRYmAgAEuYi6BGZYFsrryYIZgKMKCo7jkSNKR9UvQAlAQIEWEI1JCPrly2bz3tAmUBURSwDnFYuCpkzUuy9Hk6Vzgr35Dv/OszDxzF5CiP7B2ts//rZNra7SdgXiqMKVOgb+1x17eI9eEXt26eHxYABHBqQLw9uR5bnz6HiFF8tK4oMZX+xUfdBk973j28UfQR1eLxdQiqCxmiykB8O6lF3lncp7N8ZO088CD3PPTygH3/YwsNtR1jY6GJxZ2zIhm2FLXh29d5oWzZ8AOufbxm9Qq/NrCR8n4nIqDaeKxYYXcuXXNbn65ze79KaXNGQwqJi+fZ+u5M/zZRE6dqulVgd17HV9/8y07ew9Qy+nZPu9fmSA7tz+zVoZUvZK61xElMZu1hKYhuJzT4xEa99GigKoPvoLYgQvwzyFZsgHb3//CD7/d5erWq2w8UTOPBr7AxZbM5pgrQQru/LjL7e2fKU6s4nPH5vqIrNCG1146yzQmkuRgAU2HmORgQsIhJNDAXjPjXqMMB326pmVDIQtA6RKTjXVKSSRbGLCl1mPBKeI048LkDX7f+Y7XL445Nx6RGY4UZqwPF8QuGSK6TIT851NFcg5NufTKJueezknNFM0Moiq+O2oQNC3ecJSMZaooS08V/+D0qoeuRSQjE4NOlCDGHCEDlIfJfIgPrI1W8N5Y0QNIDoB/AeHaE04HlJoTAAAAAElFTkSuQmCC</Image>
+  <Url type="text/html" method="get" template="https://forum.torrminatorr.com/search.php?keywords={searchTerms}&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search"/>
+</OpenSearchDescription>
