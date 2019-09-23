@@ -1,4 +1,4 @@
-TorrTorrGo
+Guapler's TorrTorrGo
 ---
 
 *Search Torrminatorr Natively or by Any Words: Go TorrTorrGo!*
