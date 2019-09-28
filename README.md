@@ -1,7 +1,7 @@
-Guapler DuckTorrGo
+DuckTorrGo
 ---
 
-*Search Torrminatorr Natively or by Any Words: Go TorrGo!*
+*Query Torrminatorr Directly or use Any Terms with DuckTorrGo!*
 
 1. Come to [ducktrrgo.github.io](https://ducktorrgo.github.io) in your Browser
 2. Follow the instructions for Chrome or Firefox
